@@ -5,11 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9fde3706-55ea-4c90-9027-5bd0f4e4da54" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson3/casino/BlackJack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson3/casino/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson3/casino/Dealer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson3/casino/Rank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson3/casino/Suite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson3/champagne/Cru.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson3/date.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson3/date/myDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson3/fruits/Fruits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson3/pizza/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson3/pizza/PizzaSize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson3/weekdays/WeekDays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson4/Boxing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson4/animals/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson4/animals/AnimalsTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson4/animals/BigDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson4/animals/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson4/animals/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson4/animals/reference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson4/cloning/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson4/cloning/CloneTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson4/reference/NewReferenceTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson4/reference/ReferenceTester.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson2/Shape/FigureTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson2/Shape/FigureTester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson2/Shape/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson2/Shape/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson2/Shape/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson2/Shape/Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson2/bank/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson2/bank/Tester.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +38,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -68,13 +88,13 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.FigureTester">
-    <configuration name="FigureTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson2.Shape.FigureTester" />
+  <component name="RunManager" selected="Application.Boxing">
+    <configuration name="AnimalsTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson4.animals.AnimalsTester" />
       <module name="Java53" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson2.Shape.*" />
+          <option name="PATTERN" value="Lesson4.animals.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lesson1.Rectangle.Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson1.Rectangle.Tester" />
+    <configuration name="BlackJack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson3.casino.BlackJack" />
       <module name="Java53" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson1.Rectangle.*" />
+          <option name="PATTERN" value="Lesson3.casino.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestABC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson2.Crossword.TestABC" />
+    <configuration name="Boxing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson4.Boxing" />
       <module name="Java53" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson2.Crossword.*" />
+          <option name="PATTERN" value="Lesson4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson2.bank.Tester" />
+    <configuration name="NewReferenceTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson4.reference.NewReferenceTester" />
       <module name="Java53" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson2.bank.*" />
+          <option name="PATTERN" value="Lesson4.reference.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Uni" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson2.University.Uni" />
+    <configuration name="ReferenceTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson4.reference.ReferenceTester" />
       <module name="Java53" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson2.University.*" />
+          <option name="PATTERN" value="Lesson4.reference.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FigureTester" />
-        <item itemvalue="Application.Tester" />
-        <item itemvalue="Application.Lesson1.Rectangle.Tester" />
-        <item itemvalue="Application.TestABC" />
-        <item itemvalue="Application.Uni" />
+        <item itemvalue="Application.Boxing" />
+        <item itemvalue="Application.NewReferenceTester" />
+        <item itemvalue="Application.ReferenceTester" />
+        <item itemvalue="Application.AnimalsTester" />
+        <item itemvalue="Application.BlackJack" />
       </list>
     </recent_temporary>
   </component>
@@ -167,8 +187,26 @@
       <option name="project" value="LOCAL" />
       <updated>1680628258251</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ok">
+      <created>1680629897579</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680629897579</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ok" />
