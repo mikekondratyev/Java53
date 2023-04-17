@@ -4,13 +4,24 @@ public class Book implements Cloneable{
     private String name;
     private int year;
 
-    public Book(String name, int year) {
+    private Author author;
+
+    public Book(String name, int year, Author author) {
         this.name = name;
         this.year = year;
+        this.author = author;
     }
 
     public String getName() {
         return name;
+    }
+
+    public Author getAuthor() {
+        return author;
+    }
+
+    public void setAuthor(Author author) {
+        this.author = author;
     }
 
     public void setName(String name) {
@@ -30,6 +41,7 @@ public class Book implements Cloneable{
         return "Book{" +
                 "name='" + name + '\'' +
                 ", year=" + year +
+                ", author=" + author +
                 '}';
     }
 
