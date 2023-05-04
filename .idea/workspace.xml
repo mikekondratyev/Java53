@@ -5,10 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9fde3706-55ea-4c90-9027-5bd0f4e4da54" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson4/cloning/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson10/GoodPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson10/Lesson10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson10/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson10/PlayerTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson10/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson5/arrays/ArraysTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson5/arrays/Homework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson5/arrays/LessonRepeat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson5/arrays/SortTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson8/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson8/MyLinkedListTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson8/homework/MyDoubleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson8/homework/MyDoubleLinkedListTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/ListIntroduction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/NOD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/list/Fib.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/list/MyArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/list/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/ForEachTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/IteratorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson9/Lesson9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson9/SetTester.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson4/cloning/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson4/cloning/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson4/cloning/CloneTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson4/cloning/CloneTester.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +39,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -26,11 +47,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -57,24 +78,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.CloneTester">
-    <configuration name="AnimalsTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson4.animals.AnimalsTester" />
+}</component>
+  <component name="RunManager" selected="Application.PlayerTester">
+    <configuration name="MyDoubleLinkedListTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson8.homework.MyDoubleLinkedListTester" />
       <module name="Java53" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson4.animals.*" />
+          <option name="PATTERN" value="Lesson8.homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Boxing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson4.Boxing" />
+    <configuration name="MyLinkedListTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson8.MyLinkedListTester" />
       <module name="Java53" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson4.*" />
+          <option name="PATTERN" value="Lesson8.homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CloneTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson4.cloning.CloneTester" />
+    <configuration name="PlayerTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson10.PlayerTester" />
       <module name="Java53" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson4.cloning.*" />
+          <option name="PATTERN" value="Lesson10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NewReferenceTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson4.reference.NewReferenceTester" />
+    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson7.Practice" />
       <module name="Java53" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson4.reference.*" />
+          <option name="PATTERN" value="lesson7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReferenceTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson4.reference.ReferenceTester" />
+    <configuration name="SetTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson9.SetTester" />
       <module name="Java53" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson4.reference.*" />
+          <option name="PATTERN" value="lesson9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CloneTester" />
-        <item itemvalue="Application.Boxing" />
-        <item itemvalue="Application.NewReferenceTester" />
-        <item itemvalue="Application.ReferenceTester" />
-        <item itemvalue="Application.AnimalsTester" />
+        <item itemvalue="Application.PlayerTester" />
+        <item itemvalue="Application.SetTester" />
+        <item itemvalue="Application.MyDoubleLinkedListTester" />
+        <item itemvalue="Application.MyLinkedListTester" />
+        <item itemvalue="Application.Practice" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680809615049</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="ok!">
+      <created>1681755036254</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1681755036254</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -197,6 +225,22 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ok" />
-    <option name="LAST_COMMIT_MESSAGE" value="ok" />
+    <MESSAGE value="ok!" />
+    <option name="LAST_COMMIT_MESSAGE" value="ok!" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Lesson5/arrays/Homework.java</url>
+          <line>5</line>
+          <properties class="Lesson5.arrays.Homework" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
